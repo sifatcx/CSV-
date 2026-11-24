@@ -1,5 +1,5 @@
 {
-  "name": "Remix Chat with your CSV (Template)",
+  "name": "CSV (Template)",
   "description": "AI Data Analyst delivers interactive data analytics and insights. Upload CSVs, ask a question, and let Gemini Managed Agents autonomously analyze it.",
   "requestFramePermissions": [],
   "majorCapabilities": [
